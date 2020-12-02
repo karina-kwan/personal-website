@@ -9,5 +9,6 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: sandstone
+    theme: flatly
+    css: style.css
     
