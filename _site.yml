@@ -10,4 +10,4 @@ navbar:
 output:
   html_document:
     theme: lux
-    css: style.css
+    css: bootstrap.min.css
