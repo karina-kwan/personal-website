@@ -1,0 +1,10 @@
+---
+title: "Projects"
+---
+
+Here are some of the projects I have done.  
+
+## [Tidy Tuesday Data Visualization](https://github.com/kkwan99/tidy-tuesday)
+
+- Toronto homeless shelter occupancy by sector  
+

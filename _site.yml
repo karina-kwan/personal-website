@@ -5,7 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About Me"
+    - text: "Projects"
+      href: projects.html
+    - text: "About"
       href: about.html
 output:
   html_document:
