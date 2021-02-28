@@ -10427,3 +10427,7 @@ a.text-dark:hover, a.text-dark:focus {
 .close:hover {
   color: #b9a78a;
 }
+
+.nav > li > a:hover{
+    background-color:#403d39;
+}
