@@ -2,4 +2,4 @@
 title: "About Me"
 ---
 
-I'm an undergraduate student with a background in biology and mathematics. I am interested in applications of statistics to health and biomedical problems.  
+I'm an undergraduate student majoring in biology and mathematics. I am interested in applications of statistics to health and biomedical problems.  
