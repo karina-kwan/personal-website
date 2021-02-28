@@ -1,0 +1,8 @@
+/* links */
+a { 
+  color: #5ebccf;
+}
+
+a:hover {
+ color: #50a0b0; /* darker color when hovering */
+}
