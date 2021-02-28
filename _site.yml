@@ -10,7 +10,6 @@ navbar:
     - text: "About"
       href: about.html
   color: "#caf0f8"
-#output:
-  #html_document:
-    #theme: flatly
-    #css: style.css 
+output:
+  html_document:
+    css: style.css 
