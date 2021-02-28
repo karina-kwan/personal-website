@@ -9,6 +9,7 @@ navbar:
       href: projects.html
     - text: "About"
       href: about.html
+  color: "#caf0f8"
 output:
   html_document:
     theme: flatly
