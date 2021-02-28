@@ -4238,6 +4238,7 @@ input[type="button"].btn-block {
 }
 
 .nav-link:hover, .nav-link:focus {
+  color: #403d39;
   text-decoration: none;
 }
 
@@ -10426,8 +10427,4 @@ a.text-dark:hover, a.text-dark:focus {
 
 .close:hover {
   color: #b9a78a;
-}
-
-.nav > li > a:hover{
-    background-color:#403d39;
 }
