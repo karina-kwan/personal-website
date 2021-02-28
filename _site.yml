@@ -12,4 +12,4 @@ navbar:
 output:
   html_document:
     theme: flatly
-    css: styles.css
+    css: styles.css 
