@@ -2,4 +2,4 @@
 title: "Welcome!"
 ---
 
-Thank you for visiting my site!  
+Thank you for visiting my site! It was made to link to show some visualizations I made in R from the Tidy Tuesday project.  
