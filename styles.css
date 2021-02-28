@@ -1,35 +1,24 @@
-.nav > li > a:hover{
-    background-color:#ccc5b9;
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
-
-/*----------------NAVBAR ---------------*/
-.navbar-default {
-    background-color: #141c25f2;
+li {
+  float: left;
 }
 
-.navbar-default .navbar-nav>.open>a, 
-.navbar-default .navbar-nav>.active>a, 
-a.dropdown-toggle:hover {
-  background-color: #141c25 !important;
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
-/* Dropdown menu color */
-.navbar-default .dropdown-menu {
-  background-color: #141c25;
-}
-
-/* Dropdown menu hover color */
-  .navbar-default .dropdown-menu>li>a:hover {
-    background-color: #202831f2;
-  }
-
-/* Navbar Links when hovered*/
-.navbar-default .dropdown-menu>.active>a
-.navbar-default .navbar-nav>.active>a:hover, 
-.navbar-default .navbar-nav:hover, 
-.navbar-default .navbar-nav>li>a:hover, 
-a.navbar-brand:hover {
-  color: #ffffffab !important;
-  background-color: #141c25;
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
 }
