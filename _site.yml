@@ -12,5 +12,5 @@ navbar:
   color: "#caf0f8"
 output:
   html_document:
-    theme: flatly
-    css: style.css 
+    #theme: flatly
+    #css: style.css 
