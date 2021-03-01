@@ -2,4 +2,6 @@
 title: "Welcome!"
 ---
 
-Thank you for visiting my site! It was made to link to show some visualizations I made in R from the Tidy Tuesday project.  
+Thank you for visiting my site!  
+
+I aim to share my coding projects and some insights from my life as a student in a joint major. 

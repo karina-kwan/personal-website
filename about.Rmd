@@ -2,4 +2,9 @@
 title: "About Me"
 ---
 
-I'm an undergraduate student majoring in biology and mathematics. I am interested in applications of statistics to health and biomedical problems.  
+![lake view](Images/IMG-20190802-WA0016.jpg)
+*View from a hike in Mont Orford.*  
+
+I'm an undergraduate student majoring in biology and mathematics with a focus in molecular biology and statistics. Through my wet lab experience, I got interested in sequencing, bioinformatics and genomics.  
+
+I hope to bridge the two sides of my degree on this site and in my post-grad work. 

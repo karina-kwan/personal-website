@@ -9,6 +9,8 @@ navbar:
       href: projects.html
     - text: "About"
       href: about.html
+    - icon: fab fa-github
+      href: https://github.com/kkwan99
 output:
   html_document:
     theme: flatly
