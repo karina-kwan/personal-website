@@ -15,4 +15,6 @@ output:
   html_document:
     theme: flatly
     css: "styles.css"
+    includes:
+      in_header: header.html
     
