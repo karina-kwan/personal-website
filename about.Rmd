@@ -5,6 +5,6 @@ title: "About Me"
 ![lake view](Images/IMG-20190802-WA0016.jpg)
 *View from a hike in Mont Orford.*  
 
-I'm an undergraduate student majoring in biology and mathematics with a focus in molecular biology and statistics. Through my wet lab experience, I got interested in sequencing, bioinformatics and genomics.  
+I'm a master's in biostatistics graduate with a passion for using data and statistics to answer questions. My main interest lies in healthcare research and how we can improve existing systems for better population health. I also have a bachelor's in biology and mathematics where I got interested in statistical genetics and bioinformatics. 
 
-I hope to bridge the two sides of my degree on this site and in my post-grad work. 
+This website was built to share some of my side projects and keep my data skills up-to-date. I enjoy applying my data analysis skills to a wide range of problems and hope to show that on this site. 

@@ -2,7 +2,7 @@ name: "personal-website"
 output_dir: "."
 navbar:
   left:
-    - text: "Karina Codes"
+    - text: "Stats et al"
       href: index.html
   right:
     - text: "Projects"
